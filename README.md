@@ -8,7 +8,7 @@ CytoTools are a collection of scripts that are useful for cytometry data managem
 
 Go to 'releases' above (https://github.com/sydneycytometry/CytoTools/releases) and download source code for the latest version.
 
-**Protocols
+**Protocols**
 
 For usage instructions, please see https://github.com/sydneycytometry/CytoTools/wiki
 
@@ -20,6 +20,6 @@ Ashhurst, T. M. (2019). CytoTools v1.0. GitHub repository. Repository: https://g
 
 ## References
 
-**Packages used
+**Packages used**
 
 TBC
