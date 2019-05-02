@@ -1,0 +1,7 @@
+Sample,Group,Cluster1,Cluster2,Cluster3
+Mock 1,Mock,100,100,1000
+Mock 2,Mock,125,90,1050
+Mock 3,Mock,110,110,1200
+WNV 1,WNV,500,105,500
+WNV 2,WNV,450,95,650
+WNV 3,WNV,600,107,400
