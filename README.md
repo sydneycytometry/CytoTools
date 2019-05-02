@@ -2,8 +2,6 @@
 
 CytoTools are a collection of scripts that are useful for cytometry data management. Many of these are designed to be used in conjunction with the 'Cytometry Analysis Pipeline for large and compleX data' (CAPX) discovery analysis approach (https://github.com/sydneycytometry/CAPX).
 
-## CytoTool scripts:
-
 **SumTables** is script that generates summary data after clustering (such as number of cells per cluster per sample, MFI of various markers per cluster etc).
 
 **HeatMaps** is a flexible script intended to create phenotype heatmaps (i.e. MFI of selected markers vs clusters), difference heatmaps (number of cells or MFI per cluster vs samples) and fold-change heatmaps.
@@ -12,7 +10,7 @@ CytoTools are a collection of scripts that are useful for cytometry data managem
 
 **SampleSplit** facilitates the splitting of multiple separate samples out of one large file .csv file.
 
-## Associated scripts
+*Associated scripts*
 
 **AutoGraph** (https://github.com/sydneycytometry/AutoGraph) can be used to automatically plot dot plots to compare measurements (cells per tissue, median fluorescence intensity (MFI) etc) of each cluster/population between groups.
 
