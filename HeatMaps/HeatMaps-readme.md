@@ -1,10 +1,6 @@
 # CytoTools/HeatMaps
 
-Thomas Myles Ashhurst
-
-Sydney Cytometry Facility
-
-2018
+Thomas Myles Ashhurst, Sydney Cytometry Facility
 
 The HeatMaps script can be used to generate raw or fold-change value heatmaps from a set of data.
 
