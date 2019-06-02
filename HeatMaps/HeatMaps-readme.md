@@ -3,6 +3,7 @@
 The HeatMaps script can be used to generate raw or fold-change value heatmaps from a set of data.
 
 **Citation**
+
 If you use these scripts in your work, please cite this github using the information below. You can cite the specific version that you used in your work.
 
 Ashhurst, T. M. (2019). CytoTools v1.0. GitHub repository. Repository: https://github.com/sydneycytometry/CytoTools
