@@ -2,7 +2,7 @@
 
 Thomas Myles Ashhurst, Sydney Cytometry Facility
 
-The HeatMaps script can be used to generate raw or fold-change value heatmaps from a set of data.
+The HeatMaps script can be used to generate raw or fold-change value heatmaps from a set of data. The script reads input from a CSV file, and generates a heatmap PDF. Various settings can be modified to change the nature or appearance of the heatmap.
 
 **Download CytoTools scripts**
 
