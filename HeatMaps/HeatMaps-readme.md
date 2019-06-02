@@ -1,7 +1,9 @@
 # CytoTools/HeatMaps
 
 Thomas Myles Ashhurst
+
 Sydney Cytometry Facility
+
 2018
 
 The HeatMaps script can be used to generate raw or fold-change value heatmaps from a set of data.
