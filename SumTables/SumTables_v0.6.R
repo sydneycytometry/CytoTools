@@ -207,8 +207,11 @@
         # some checks
             samp.list[[1]]
             nrow(samp.list[[1]])
-        
-        ClustName <- samp.list[[1]][clust.col]
+            
+            all.samps <- rbindlist(samp.list)
+            all.samps
+            
+        ClustName <- all.samps[[clust.col]]
         
         # number of cells per cluster in each sample and order
         length(as.matrix(unique(ClustName))) # find number of clusters
